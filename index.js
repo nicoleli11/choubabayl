@@ -1,8 +1,10 @@
 //A
 function RandomRed(){
 	var red = Math.round(Math.random()*255)
-	return "rgb("+red+", 100, 100)";
+sdsdasds	return "rgb("+red+", 100, 100)";
 }
+
+
 
 ver i = 0;
 setInterval(()=>{
